@@ -1,7 +1,7 @@
 Welcome to Amy's Website 
 
-🡺
- is Amy ? 
+![image](https://github.com/user-attachments/assets/1cd46b0a-a825-4fd7-b371-ef332d34ec93)
+ Who is Amy ? 
 
 Amy is not only a strong leader but also a hands-on strategist who knows how to bring ambitious projects to life. She successfully launched and managed a **Guinness World Record** initiative, leveraging a full spectrum of skills—including data collection, marketing, team formation, program management, and community engagement. From scratch, she built the project into a structured operation, coordinating efforts across different teams and ensuring seamless execution. Her ability to manage people goes beyond delegation; she fosters collaboration, keeps teams motivated, and aligns them with a shared vision, making complex projects both achievable and impactful.  
 
