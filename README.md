@@ -14,5 +14,6 @@ Beyond her analytical and operational expertise, Amy is a natural team builder a
 Amy’s leadership extends beyond internal teams. As a podcaster and skilled communicator, she has built an engaged audience, strengthening employer branding and thought leadership. Whether working with executives, engineers, or cross-functional teams, she ensures that people, projects, and business goals align seamlessly. With a proven ability to navigate complex organizational structures and deliver measurable impact, Amy is the kind of leader HR teams seek to enhance company culture, optimize talent potential, and build thriving organizations.
 
 
-Amy's Github: 
-https://github.com/amyamynotanyamy?tab=repositories
+### xAmy's GitHub  
+[GitHub Profile](https://github.com/amyamynotanyamy?tab=repositories)
+
